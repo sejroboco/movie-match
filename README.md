@@ -25,3 +25,8 @@ git clone https://github.com/tonpseudo/MovieMatch.git
 cd MovieMatch
 pip install -r requirements.txt
 streamlit run app/streamlit_app.py
+```
+
+## 🧑‍💻 Auteur
+
+Sèjro Toussaint Boco - Data Scientist
